@@ -16,7 +16,7 @@
 - 📫 Reach 👇<br>
 
 [![](https://img.shields.io/badge/-Madhav_Mishra-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madhav-mishra-44382723a/)](https://www.linkedin.com/in/madhav-mishra-44382723a/)
-[![](https://img.shields.io/badge/-Madhav_Mishra_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://www.instagram.com/m__square72)](https://www.instagram.com/m__square72/)
+[![](https://img.shields.io/badge/-Madhav_Mishra_-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/m__square72)](https://www.instagram.com/m__square72/)
 [![](https://img.shields.io/badge/-mishramadhav1607@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:MadhavMishra)](mailto:mishramadhav1607@gmail.com)
 [![](https://img.shields.io/badge/-MadhavMishra1607-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhavMishra1607)
 
