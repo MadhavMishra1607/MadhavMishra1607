@@ -31,9 +31,11 @@
 ### Languages :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![SQL](https://img.shields.io/badge/SQL-%2320232a.svg?style=for-the-badge&logo=SQL&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=Tableau)
+
+![JAVA](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java)
 
 
 
@@ -43,7 +45,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23404d59.svg?style=for-the-badge&logo=numpy&logoColor=%2361DAFB)
 ![Seaborn](https://img.shields.io/badge/-seaborn-4DB33D?style=for-the-badge&logo=Seaborn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23563D7C.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2320232a.svg?style=for-the-badge&logo=SQL&logoColor=%2361DAFB)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=for-the-badge&logo=Tableau)
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MadhavMishra1607&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="MadhavMishra1607" /></a> </p>
 
 <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
