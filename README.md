@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi👋, Madhav here!</h1>
-<h3 align="center">I am a Computer Science student, Web developer & AI ML enthusiast.</h3>
+<h3 align="center">I am a Computer Science student, Data Analytics enthusiast.</h3>
 
 <h1 align="center">Education</h1>
 <h3 align="center">B.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
@@ -8,10 +8,10 @@
 
 - 💻 **[Check out my projects!](https://github.com/MadhavMishra1607?tab=repositories)**
 
-- Looking forward to collaborate on **Open Source Contributions**
+- Looking forward to collaborate on **Bridge the Gap between Data and Decision Making**
 
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning Machine Learning
 
 - 📫 Reach 👇<br>
 
@@ -24,7 +24,7 @@
 <br />
 <img align="right" alt="GIF" src="code.gif?raw=true" width="420" height="290" /> 
 
-- 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Badminton | Cricket | Swimming | Coding ***
+- 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Badminton | Cricket  | Coding ***
 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=MadhavMishra1607)
 
